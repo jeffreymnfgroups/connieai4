@@ -69,7 +69,7 @@ const Services = () => {
                                     Complete Meeting Automation
                                 </h5>
                                 <p className="mt-2 lg:max-w-sm text-neutral-500">
-                                    It&apos;s like if Otter AI and Superhuman had a baby, creating a platform that turns vague meeting summaries into realistic actions.
+                                    Its like if Otter AI and Superhuman had a baby, creating a platform that turns vague meeting summaries into realistic actions.
                                 </p>
                             </div>
                             <div className="flex items-center w-full mt-8">

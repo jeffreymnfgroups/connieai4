@@ -252,7 +252,7 @@ export const testimonials = [
     {
         name: "Robert Taylor",
         username: "@robert_taylor",
-        review: "CoNNIE AI is the Oprah&apos;s for sales meetings - it extracts what matters most and acts on it."
+        review: "CoNNIE AI is the Oprahs for sales meetings - it extracts what matters most and acts on it."
     },
     {
         name: "Michelle Davis",
