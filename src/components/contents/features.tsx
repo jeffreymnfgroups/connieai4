@@ -36,7 +36,7 @@ const Features = () => {
                         End-to-End Meeting Intelligence & Automation
                     </h2>
                     <p className="max-w-lg mt-6 text-center text-neutral-500">
-                        This isn't just meeting transcription—it's complete execution automation that transforms your meetings into actionable insights.
+                        This isn&apos;t just meeting transcription—it&apos;s complete execution automation that transforms your meetings into actionable insights.
                     </p>
                 </div>
             </AnimationContainer>
